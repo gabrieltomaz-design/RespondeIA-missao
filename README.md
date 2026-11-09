@@ -1,2 +1,2 @@
-# respondeIA-miss-o
+# respondeIA-missao
 Projeto de apoio ao atendimento ao cliente
